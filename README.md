@@ -13,3 +13,4 @@ void main()
 	cout<<"Sum of the two number is "<<sum;
 	getch();
 }
+#uo
