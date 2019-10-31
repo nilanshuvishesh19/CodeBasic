@@ -8,6 +8,7 @@ void main()
 {   
     clrscr();
     cout << "Hello, World!";
+    cout<<"hello hackotober"
     getch();
 int main() 
 {
